@@ -1,2 +1,3 @@
 # HW-2 
-2020732051 김민호
+Collaborator  신종현 작성
+2003.03 21  Shin jonghyeon
